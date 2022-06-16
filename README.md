@@ -1,6 +1,5 @@
 # final-project "Miniature snake game"
 
-## Getting Started
 
 ### Prerequisites	
 
