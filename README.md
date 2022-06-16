@@ -1,7 +1,5 @@
 # final-project "Miniature snake game"
-
-
-### Prerequisites	
+	
 
 To create this project I used Python, PyGame
 
